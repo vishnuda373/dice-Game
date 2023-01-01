@@ -73,9 +73,11 @@ footer{
     }
     p{
         font-size: 2rem;
-        /* color: #4ECCA3; */
-        color:red;
+        color: #4ECCA3;
         font-family: 'Indie Flower', cursive;
+    }
+    img{
+        width:40%;
     }
 }
 
