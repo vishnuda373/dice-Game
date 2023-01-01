@@ -63,3 +63,19 @@ footer{
     font-family: 'Indie Flower', cursive;
 }
 
+@media(max-width: 500px){
+    h1{
+        margin:10px;
+        font-family:'Lobster', cursive;
+        text-shadow: 5px 0 #232931;
+        font-size: 4rem;
+        color: #4ECCA3;
+    }
+    p{
+        font-size: 2rem;
+        /* color: #4ECCA3; */
+        color:red;
+        font-family: 'Indie Flower', cursive;
+    }
+}
+
